@@ -1,0 +1,7 @@
+E:\نور\exercise 1\exercise 1\bin\Debug\exercise 1.exe.config
+E:\نور\exercise 1\exercise 1\bin\Debug\exercise 1.exe
+E:\نور\exercise 1\exercise 1\bin\Debug\exercise 1.pdb
+E:\نور\exercise 1\exercise 1\obj\Debug\exercise 1.csprojAssemblyReference.cache
+E:\نور\exercise 1\exercise 1\obj\Debug\exercise 1.csproj.CoreCompileInputs.cache
+E:\نور\exercise 1\exercise 1\obj\Debug\exercise 1.exe
+E:\نور\exercise 1\exercise 1\obj\Debug\exercise 1.pdb
